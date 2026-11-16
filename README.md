@@ -7,29 +7,26 @@ COMO USAR ESTE MODELO
 5. Apague este bloco de comentário.
 -->
 
-# [Título do projeto]
+# Revealing Hidden Patterns: Ecological Niche Modeling and Diversity Patterns of Ants (Formicidae) in the Atlantic Forest
 
-[Uma ou duas frases: o que este repositório contém e para que serve.]
+Esse repositório contém minhas análises relacionadas aos modelos de nicho produzidos pelo meu mestrado
 
-**Tipo:** [protocolo | pipeline | análise | dados | ensino]
-**Status:** [em desenvolvimento | estável | arquivado]
+**Tipo:** análise
+**Status:** em desenvolvimento
 
 ## Autores
 
 | Nome | Função | ORCID |
 | --- | --- | --- |
-| [Nome Sobrenome] | [autor(a) principal — mestrado/doutorado/IC/pós-doc] | [0000-0000-0000-0000] |
-| Gabriela Procópio Camacho | Orientação / coordenação | [0000-0000-0000-0000] |
+| Davi Vilaça Carvalho | [autor(a) principal — mestrado] | 0000-0002-8246-2449 |
+| Gabriela Procópio Camacho | Orientação / coordenação | 0000-0002-8792-7719 |
 
 Laboratório de Hymenoptera — Museu de Zoologia da Universidade de São Paulo (MZUSP).
 
 ## Financiamento
 
-<!-- Use o nome completo do financiador e o número do processo, como exigido pelas regras de cada agência. Inclua o projeto do laboratório e as bolsas individuais. -->
+- Fundação de Amparo à Pesquisa do Estado de São Paulo (FAPESP), processo nº 	25/26484-1 — bolsa de mestrado.
 
-- Fundação de Amparo à Pesquisa do Estado de São Paulo (FAPESP), processo nº [AAAA/NNNNN-N] — [modalidade, ex.: bolsa de mestrado].
-- [Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) — Código de Financiamento 001.]
-- [Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq), processo nº [número].]
 
 As opiniões, hipóteses e conclusões ou recomendações expressas neste material são de responsabilidade dos autores e não necessariamente refletem a visão da FAPESP.
 
