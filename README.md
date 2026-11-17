@@ -18,7 +18,7 @@ Esse repositório contém minhas análises relacionadas aos modelos de nicho pro
 
 | Nome | Função | ORCID |
 | --- | --- | --- |
-| Davi Vilaça Carvalho | [autor(a) principal — mestrado] | 0000-0002-8246-2449 |
+| Davi Vilaça Carvalho | autor principal — mestrado | 0000-0002-8246-2449 |
 | Gabriela Procópio Camacho | Orientação / coordenação | 0000-0002-8792-7719 |
 
 Laboratório de Hymenoptera — Museu de Zoologia da Universidade de São Paulo (MZUSP).
